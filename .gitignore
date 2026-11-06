@@ -1,0 +1,13 @@
+backend/target/
+frontend-pc/node_modules/
+frontend-pc/dist/
+frontend-pc/test-results/
+frontend-pc/playwright-report/
+.idea/
+.vscode/
+*.log
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
